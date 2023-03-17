@@ -131,5 +131,5 @@ dmypy.json
 # Secure
 /pandas/attach/
 
-# IDE settings
+# IDE settings directory
 .idea/
